@@ -359,6 +359,15 @@ h2{
 /* ＝＝＝＝＝＝＝＝レスポンシブ＝＝＝＝＝＝＝＝＝ */
 @media screen and (max-width: 768px){
 
+  .top-contents01{
+    max-width: 60rem;
+  }
+
+  .bg-gray{
+    padding: 10rem 10% 15rem;
+
+  }
+
 .top-texts{
   margin-left: 2rem;
 }
