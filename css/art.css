@@ -1,0 +1,36 @@
+.main-copy{
+  padding-top: 20rem;
+  width: 19.7rem;
+  margin: 0 auto 30rem;
+}
+
+
+.pic-section{
+  margin: 0 3% 15rem;
+}
+
+.head-text{
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.art-contents{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 110rem;
+  margin: 0 auto -50px;
+}
+
+.art-contents img{
+  width: 25rem;
+  margin: 50px;
+
+}
+
+.art-contents::after{
+  content: "";
+  display: block;
+  width: 25rem;
+  margin: 50px;
+}
